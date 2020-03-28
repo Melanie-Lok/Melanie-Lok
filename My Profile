@@ -1,5 +1,56 @@
 <!DOCTYPE html>
 <html>
-<head>
+<body style="background-color:#626262;">
 
-h1>My Profile</h1>
+<h1 style="margin: 0in; font-family: Arial; font-size: 24pt; text-align: center;"><span style="font-weight: bold; color: #F9BBA9;">My Profile</h1>
+<p>&nbsp;</p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 14.0pt;text-align: center;"><span style="font-weight: bold; color: #FFB6A6;">Personal Information:</p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;text-align: center;"><span style="color: #ffffff;">Melanie Lok (S3722982)</span></p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;text-align: center;"><span style="color: #ffffff;"><a style="color: #ffffff;" href="mailto:s3722982@student.rmit.edu.au">s3722982@student.rmit.edu.au</a></span></p>
+</p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">I was born in Australia on May, 1999. My ethnicity is half Cambodian and half Chinese.  </span></p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">After graduating from High School, I took a gap year then did half a semester in an Associates Degree of Science. I didn't enjoy it much so I dropped the course in Semester 2 and applied for a Bachelors Degree in Information Technology. </span></p>
+</p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Fact about me: My hair hasn't been its natural colour in five years.</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">&nbsp;</span></p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 14.0pt;"><span style="font-weight: bold; color: #FFB6A6;">Interest in IT:</span></p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">What is your interest in IT?</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Main interest is in programming - Frustrating to figure out but the end result is satisfying and gives a sense of accomplishment, which makes it enjoyable.</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">When did your interest in IT start?</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Started playing games since a young age so originally was interested in the development of games and progressed to coding as I got older.</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Was there a particular event or person that sparked your interest?</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Dad, brother, sister-in-law all have/had careers in IT, so my interest kindled from them.</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Why did you choose to come to RMIT?</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Originally applied for Science at Melbourne University, so RMIT was my second choice.</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">What do you expect to learn during your studies?</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">To gain more knowledge about the IT world, get more experience with coding</span></p>
+</p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 14.0pt;"><span style="font-weight: bold; color: #FFB6A6;">Ideal Job:</span></p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Junior Data Scientist</span></p>
+<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://www.seek.com.au/job/41143403?type=standout#searchRequestToken=90ba001e-4236-483a-b267-1ad3b7baaa00">https://www.seek.com.au/job/41143403?type=standout#searchRequestToken=90ba001e-4236-483a-b267-1ad3b7baaa00</a></span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">&nbsp;</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Description: work with businesses/ technology teams, to identify business cases and apply data analysis to model/extract informational value to deliver value add solutions. This position appeals to me because it seems like a good graduate level job that will help be build my way up in the data science field.</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Skills/qualifications/experience: Graduate of 2-3 years, strong oral/communication/teamwork skills, data analysis, data modelling/design, hypothesis generation, understand emerging tools/techniques in machine learning /statistical modelling/analytics,</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">How will you obtain the skills/qualifications/experience required for the position?</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Focus on the course subjects, study well, try to get help from educators, networking, get internships</span></p>
+</p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 14.0pt;"><span style="font-weight: bold; color: #FFB6A6;">Tests:</span></p>
+
+<p><span style="color: #ffffff;">&nbsp;</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">What do the results of these tests mean to you?</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">I don't really believe them but they are all similar to each other so I guess it's somewhat accurate. It doesn't mean much to me as I don't have a care for them.</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">How do you think these results may influence your behaviour in a team?</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">According to the tests I am extraverted so I would work well in a team.</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">How should you take this into account when forming a team?</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">In a team, I would prefer to have similar people to me, we would work well together.</span></p>
+<p>&nbsp;</p>
