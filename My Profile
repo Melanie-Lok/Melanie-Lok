@@ -2,8 +2,11 @@
 <html>
 <body style="background-color:#626262;">
 
-<h1 style="margin: 0in; font-family: Arial; font-size: 24pt; text-align: center;"><span style="font-weight: bold; color: #F9BBA9;">My Profile</h1>
+
+<h1 style="margin: 0in; font-family: Arial; font-size: 24pt; text-align: center;"><span style="font-weight: bold; color: #F9BBA9;">My Profile: Assignment 1</h1>
 <p>&nbsp;</p>
+
+
 
 <p style="margin: 0in; font-family: Arial; font-size: 14.0pt;text-align: center;"><span style="font-weight: bold; color: #FFB6A6;">Personal Information:</p>
 
@@ -15,42 +18,74 @@
 <p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">I was born in Australia on May, 1999. My ethnicity is half Cambodian and half Chinese.  </span></p>
 
 <p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">After graduating from High School, I took a gap year then did half a semester in an Associates Degree of Science. I didn't enjoy it much so I dropped the course in Semester 2 and applied for a Bachelors Degree in Information Technology. </span></p>
-</p>
+
 <p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Fact about me: My hair hasn't been its natural colour in five years.</span></p>
 <p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">&nbsp;</span></p>
 
-<p style="margin: 0in; font-family: Arial; font-size: 14.0pt;"><span style="font-weight: bold; color: #FFB6A6;">Interest in IT:</span></p>
 
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">What is your interest in IT?</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Main interest is in programming - Frustrating to figure out but the end result is satisfying and gives a sense of accomplishment, which makes it enjoyable.</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">When did your interest in IT start?</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Started playing games since a young age so originally was interested in the development of games and progressed to coding as I got older.</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Was there a particular event or person that sparked your interest?</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Dad, brother, sister-in-law all have/had careers in IT, so my interest kindled from them.</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Why did you choose to come to RMIT?</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Originally applied for Science at Melbourne University, so RMIT was my second choice.</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">What do you expect to learn during your studies?</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">To gain more knowledge about the IT world, get more experience with coding</span></p>
+
+
+<p style="margin: 0in; font-family: Arial; font-size: 14.0pt;text-align: center;"><span style="font-weight: bold; color: #FFB6A6;">Interest in IT:</span></p>
 </p>
 
-<p style="margin: 0in; font-family: Arial; font-size: 14.0pt;"><span style="font-weight: bold; color: #FFB6A6;">Ideal Job:</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">My main interest in IT is in programming. Although it is frustrating at times and can be very difficult, the end result is satisfying. Having your code run successfully gives a sense of accomplishment, which makes it so enjoyable.</span></p>
+</p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">I have always been interested in IT since a young age. I have elder siblings who introduced me to games, so originally I was fascinated in game development, which progressed to coding as I got older and lost my interest in computer games.</span></p>
+</p>
 
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Junior Data Scientist</span></p>
-<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://www.seek.com.au/job/41143403?type=standout#searchRequestToken=90ba001e-4236-483a-b267-1ad3b7baaa00">https://www.seek.com.au/job/41143403?type=standout#searchRequestToken=90ba001e-4236-483a-b267-1ad3b7baaa00</a></span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">The spark for IT came from my dad, my brother and my sister-in-law, who all have careers in IT. They influenced me to chase an IT career.</span></p>
+</p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Originally, I applied for Science at Melbourne University but I didn't make it in. RMIT has a good reputation for Information Technology hence it being my second choice. </span></p>
+</p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">From my time at RMIT, I expect to obtain more knowledge about the IT world from peers and educators, gather more experience in coding as well as broaden my interests in IT and hopefully succeed in getting internships. </span></p>
+</p>
+
+
+
+<p style="margin: 0in; font-family: Arial; font-size: 14.0pt;text-align: center;"><span style="font-weight: bold; color: #FFB6A6;">Ideal Job:</span></p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;text-align:center;"><span style="color: #ffffff;">Junior Data Scientist</span></p>
+<p style="margin: 0in; font-family: Arial; font-size: 11.0pt;text-align:center;"><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://www.seek.com.au/job/41143403?type=standout#searchRequestToken=90ba001e-4236-483a-b267-1ad3b7baaa00">(https://www.seek.com.au/job/41143403?type=standout#searchRequestToken=90ba001e-4236-483a-b267-1ad3b7baaa00)</a></span></p>
 <p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">&nbsp;</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Description: work with businesses/ technology teams, to identify business cases and apply data analysis to model/extract informational value to deliver value add solutions. This position appeals to me because it seems like a good graduate level job that will help be build my way up in the data science field.</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Skills/qualifications/experience: Graduate of 2-3 years, strong oral/communication/teamwork skills, data analysis, data modelling/design, hypothesis generation, understand emerging tools/techniques in machine learning /statistical modelling/analytics,</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">How will you obtain the skills/qualifications/experience required for the position?</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Focus on the course subjects, study well, try to get help from educators, networking, get internships</span></p>
+
+<p style="text-align: center;"><img style="float: center;" src="https://i.gyazo.com/3c5818fb2d4cf0a5220a4dd38a5e2563.png" alt="Image from Gyazo" width="293.3333333333333px" /></p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">The position for this job is a Junior Data Scientist. The main focus of the job involves working with businesses and technology teams, while applying data analysis and data modelling skills to enhance company products/services before offering it to clients. This position appeals to me because it is a great graduate level job that requires a lot of teamwork and data analysis, which I enjoy. The job could potentially lead to better opportunites and help further my career goals as a data scientist. </span></p>
+</p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">The skills, qualifications and experience this job requires includes: being a graduate of 2-3 years, having strong oral/communication/teamwork skills, data analysis skills, data modelling/design skills, being able to generate hypotheses, understand analytics, stay updated with leading systems/practises and deliver prototypes to test value.</span></p>
+
+</p>
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">Currently, I don't hold any of the technical skills, qualifications or experience required for this position. I do however, have great teamwork skills. As I continue with my bachelors, I hope to gain the knowledge I need. I will do this by focusing on course subjects, studying as well as I can and communicate with educators to help guide me. To obtain the skills and qualifications, I will apply for internship that will assist in building my experience. From there, I plan to network and create connections for future opportunities.</span></p>
+
+
+
+
+<p style="margin: 0in; font-family: Arial; font-size: 14.0pt; text-align: center;"><span style="font-weight: bold; color: #ffb6a6;">Profile:</span></p>
 </p>
 
-<p style="margin: 0in; font-family: Arial; font-size: 14.0pt;"><span style="font-weight: bold; color: #FFB6A6;">Tests:</span></p>
 
-<p><span style="color: #ffffff;">&nbsp;</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">What do the results of these tests mean to you?</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">I don't really believe them but they are all similar to each other so I guess it's somewhat accurate. It doesn't mean much to me as I don't have a care for them.</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">How do you think these results may influence your behaviour in a team?</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">According to the tests I am extraverted so I would work well in a team.</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">How should you take this into account when forming a team?</span></p>
-<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">In a team, I would prefer to have similar people to me, we would work well together.</span></p>
-<p>&nbsp;</p>
+<p><a style="text-align: center;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.gyazo.com/2ebe961a456da236d3e35df5d94210fc.png" alt="Image from Gyazo" width="500px" /></a></p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.gyazo.com/5177652a49c28aa36af27b8dacba7743.png" alt="Image from Gyazo" width="638.6666666666666" /></p>
+<p><a><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.gyazo.com/7390b7f919f4e87c5bf9a3dc89d35597.png" alt="Image from Gyazo" width="804" /></a></p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">My personality type is: ESFP - "The Entertainer". From my interpretation, the 'Extraverted' is characterised by my spontaneous and impulsive nature. I get energized by being around groups and I always enjoy having others company, which connects with 'Feeling'. I often seek to please and I am subjective, so my decisions are based on my values. I think with my heart rather than my head most the time, which explains 'Sensing' where I focus only on the present. I trust my instincts and go for what I know and feel is right. As for 'Percieving', my thinking process is quite random and I am often open to change. The unexpected usually doesn't bother me and enjoy working on many projects at once. My learning style is Tactile/Kinesthetic, which proves to be true as I retain information better when I work on it physically. Watching and listening helps but it is not the most effective for me, so I try different studying techniques to help me learn. As for my Big Five assessment, the results are extremely similar to my Myers-Briggs test.</span></p>
+
+</p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">My personality type allows me to work well with a team. I am usually verbal and assertive so I'm not shy to hold back any ideas. I always cooperate and communicate with team members, and I am open to ideas that may challenge my own without having any conflict. However, my extraversion may be intimidating to some introverted individuals, or those who are philosophical, as our personalities clash. Our values different so it may be difficult to work with these personality types. </span></p>
+</p>
+
+<p style="margin: 0in; font-family: Arial; font-size: 12.0pt;"><span style="color: #ffffff;">When forming a team, I would try to work with those compatible with ESFP personality types. These include ISFP, ESTP, ESFP and ESFJ. I believe we would work well together due to these types having similar values, motivations, interests and approaches to life. If possible, I would avoid the personality types INTP, INTJ, INFJ and ENTJ.There are many clashes and challenges we face when it comes to general values so working with them will cause many disagreements. </span></p>
+
+
+
+
+
+
+
+
+
+
+
